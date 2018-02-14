@@ -1,0 +1,73 @@
+
+body {
+  background: #293f50;
+  color: #888;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/*
+  ========================================
+  Primary header
+  ========================================
+*/
+.logo {
+  border-top: 4px solid #648880;
+  float: left;
+  font-size: 48px;
+  font-weight: 100;
+  letter-spacing: .5px;
+  line-height: 44px;
+  padding: 40px 0 22px 0;
+  text-transform: uppercase;
+}
+.tagline {
+  margin: 66px 0 22px 0;
+  text-align: right;
+}
+
+/*
+  ========================================
+  Primary header
+  ========================================
+*/
+
+.container {
+  color: white;
+  line-height: 44px;
+  padding: 22px 80px 66px 80px;
+  text-align: center;
+}
+
+/*.container h2 {
+  font-size: 36px;
+}*/
+.container p {
+  font-size: 24px;
+  font-weight: 100;
+}
+.right {
+  float: right;
+}
+/*
+  ========================================
+  Rows
+  ========================================
+*/
+
+.row,
+.row-alt {
+  min-width: 960px;
+}
+.row {
+  background: #fff;
+  padding: 66px 0 44px 0;
+ }
+
+h3 {
+  justify-content: center
+}
+
+ img {
+   width: 15em;
+   height: 15em;
+   padding: 1%;
+ }
